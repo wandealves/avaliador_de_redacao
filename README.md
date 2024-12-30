@@ -27,3 +27,7 @@ Cada etapa é executada condicionalmente com base nas pontuações das etapas an
 ## Conclusão
 
 Este notebook demonstra uma abordagem flexível e extensível para a avaliação automatizada de redações. Ao aproveitar o poder dos grandes modelos de linguagem e um fluxo de trabalho baseado em grafos, oferece uma avaliação nuançada de redações que considera múltiplos aspectos da qualidade da escrita. Este sistema pode ser refinado e adaptado para vários contextos educacionais, potencialmente melhorando a eficiência e consistência das avaliações de redações.
+
+# Código de referência
+
+Scoras Academy: https://github.com/Scoras-Academy
